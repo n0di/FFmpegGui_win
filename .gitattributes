@@ -1,2 +1,2 @@
-*.Tcl linguist-detectable=false
+*.tcl linguist-detectable=false
 *.py linguist-detectable=true
