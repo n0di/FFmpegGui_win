@@ -2,12 +2,12 @@
 
 ## About
 
-# The program is made for easy use of the ffmpeg utility
+### The program is made for easy use of the ffmpeg utility
 
 ## Install
 
 ### Video instruction
-#### https://www.youtube.com/watch?v=q0tCJ2jtxJY&feature=youtu.be
+#### https://youtu.be/q0tCJ2jtxJY
 
 ### Text instruction
 
